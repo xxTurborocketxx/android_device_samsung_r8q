@@ -6,7 +6,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/samsung/r8q/device.mk)
 
 # Inherit some common Lineage stuff
-$(call inherit-product, vendor/arrow/config/common_full_phone.mk)
+$(call inherit-product, vendor/arrow/config/common.mk)
 
 # Product IDs
 PRODUCT_NAME := arrow_r8q
