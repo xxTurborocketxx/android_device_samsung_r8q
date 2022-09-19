@@ -18,8 +18,8 @@
 
 set -e
 
-DEVICE=sm8150-common
-VENDOR=lge
+DEVICE=r8q
+VENDOR=samsung
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
