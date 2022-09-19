@@ -10,9 +10,7 @@ TARGET_SPECIFIC_HEADER_PATH += $(DEVICE_PATH)/include
 TARGET_OTA_ASSERT_DEVICE := r8q
 
 # Kernel
-TARGET_KERNEL_CONFIG := vendor/r8q_chn_openx_defconfig
-TARGET_KERNEL_VARIANT_CONFIG := vendor/variant_r8q_chn_openx_defconfig
-KERNEL_LD := DEBUG_DEFCONFIG=vendor/aosp_defconfig
+TARGET_KERNEL_CONFIG := vendor/r8q_defconfig
 
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth/include
