@@ -5,8 +5,11 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit device configuration
 $(call inherit-product, device/samsung/r8q/device.mk)
 
+# Inherit some common Lineage stuff
+$(call inherit-product, vendor/arrow/config/common_full_phone.mk)
+
 # Product IDs
-PRODUCT_NAME := full_r8q
+PRODUCT_NAME := arrow_r8q
 PRODUCT_DEVICE := r8q
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
