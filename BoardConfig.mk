@@ -20,3 +20,8 @@ TARGET_SCREEN_DENSITY := 600
 
 # Properties
 TARGET_PRODUCT_PROP += $(DEVICE_PATH)/product.prop
+
+
+
+# Inherit from the proprietary version
+-include vendor/samsung/r8q/BoardConfigVendor.mk
