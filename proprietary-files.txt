@@ -158,6 +158,16 @@ vendor/lib64/camera/fdconfigpreview.bin
 # Camera firmware
 vendor/firmware/CAMERA_ICP.elf
 
+# Camera - snap
+vendor/lib/libsnap_vndk.so
+vendor/lib/vendor.samsung.hardware.snap@1.0.so
+vendor/lib/vendor.samsung.hardware.snap@1.1.so
+vendor/lib/vendor.samsung.hardware.snap@1.2.so
+vendor/lib64/libsnap_vndk.so
+vendor/lib64/vendor.samsung.hardware.snap@1.0.so
+vendor/lib64/vendor.samsung.hardware.snap@1.1.so
+vendor/lib64/vendor.samsung.hardware.snap@1.2.so
+
 #hdr
 vendor/etc/qdcm_calib_data_ss_dsi_panel_EA8079B_AMS646YB01_FHD.xml
 vendor/etc/qdcm_calib_data_ss_dsi_panel_S6E3FC3_AMS646YD01_FHD.xml
