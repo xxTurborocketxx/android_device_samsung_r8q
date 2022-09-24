@@ -9,6 +9,8 @@ vendor/lib/vendor.samsung.hardware.camera.device@5.0.so
 vendor/lib64/vendor.samsung.hardware.camera.device@5.0.so
 vendor/lib/vendor.samsung.hardware.camera.provider@4.0.so
 vendor/lib64/vendor.samsung.hardware.camera.provider@4.0.so
+vendor/lib/vendor.samsung.hardware.camera.provider@4.0-legacy.so
+vendor/lib64/vendor.samsung.hardware.camera.provider@4.0-legacy.so
 vendor/lib/camera.device@1.0-impl.so
 vendor/lib/camera.device@3.2-impl.so
 vendor/lib/camera.device@3.3-impl.so
