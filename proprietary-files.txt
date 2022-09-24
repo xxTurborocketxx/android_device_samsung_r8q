@@ -176,6 +176,10 @@ vendor/lib64/vendor.samsung.hardware.snap@1.0.so
 vendor/lib64/vendor.samsung.hardware.snap@1.1.so
 vendor/lib64/vendor.samsung.hardware.snap@1.2.so
 
+#camera chi
+vendor/lib/hw/com.qti.chi.override.so
+vendor/lib64/hw/com.qti.chi.override.so
+
 #hdr
 vendor/etc/qdcm_calib_data_ss_dsi_panel_EA8079B_AMS646YB01_FHD.xml
 vendor/etc/qdcm_calib_data_ss_dsi_panel_S6E3FC3_AMS646YD01_FHD.xml
