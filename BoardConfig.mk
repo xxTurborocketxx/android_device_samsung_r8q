@@ -20,6 +20,7 @@ TARGET_SCREEN_DENSITY := 600
 
 # Properties
 TARGET_PRODUCT_PROP += $(DEVICE_PATH)/product.prop
+TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 
 
 
