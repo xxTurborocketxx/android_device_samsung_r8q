@@ -180,6 +180,10 @@ vendor/lib64/vendor.samsung.hardware.snap@1.2.so
 vendor/lib/hw/com.qti.chi.override.so
 vendor/lib64/hw/com.qti.chi.override.so
 
+#Camera Unihal
+vendor/lib/hw/camera.unihal.default.so
+vendor/lib64/hw/camera.unihal.default.so
+
 #hdr
 vendor/etc/qdcm_calib_data_ss_dsi_panel_EA8079B_AMS646YB01_FHD.xml
 vendor/etc/qdcm_calib_data_ss_dsi_panel_S6E3FC3_AMS646YD01_FHD.xml
