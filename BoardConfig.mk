@@ -29,6 +29,9 @@ TARGET_SCREEN_DENSITY := 450
 # HIDL
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 
+# Kernel
+TARGET_KERNEL_CONFIG := vendor/lineage_r8q_defconfig
+
 # Keystore
 TARGET_KEYMASTER_VARIANT := samsung
 
