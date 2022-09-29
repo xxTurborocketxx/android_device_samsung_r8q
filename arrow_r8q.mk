@@ -21,8 +21,8 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit from r8q device
 $(call inherit-product, device/samsung/r8q/device.mk)
 
-# Inherit some common PixelExperience stuff.
-$(call inherit-product, vendor/aosp/config/common_full_phone.mk)
+# Inherit some common ArrowOs stuff.
+$(call inherit-product, vendor/arrow/config/common.mk)
 
 # Boot Animation
 TARGET_BOOT_ANIMATION_RES := 1080

@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_r8q.mk
+    $(LOCAL_DIR)/arrow_r8q.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_r8q-user \
-    aosp_r8q-userdebug \
-    aosp_r8q-eng
+    arrow_r8q-user \
+    arrow_r8q-userdebug \
+    arrow_r8q-eng
