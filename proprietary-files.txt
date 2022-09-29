@@ -187,6 +187,8 @@ vendor/lib64/hw/com.qti.chi.override.so
 #Camera Unihal
 vendor/lib/hw/camera.unihal.default.so
 vendor/lib64/hw/camera.unihal.default.so
+vendor/lib/unihal_main@2.1.so
+vendor/lib64/unihal_main@2.1.so
 
 #hdr
 vendor/etc/qdcm_calib_data_ss_dsi_panel_EA8079B_AMS646YB01_FHD.xml
