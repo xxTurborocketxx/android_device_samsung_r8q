@@ -66,3 +66,6 @@ odm                                                     /odm                   e
 
 # Boot Image
 /dev/block/bootdevice/by-name/boot                      /boot                  emmc    defaults                                             defaults
+
+# Recovery Image
+/dev/block/bootdevice/by-name/recovery                      /recovery                  emmc    defaults                                             defaults
