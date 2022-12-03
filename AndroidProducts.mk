@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_r8q.mk
+    $(LOCAL_DIR)/lineage_r8q.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_r8q-user \
-    arrow_r8q-userdebug \
-    arrow_r8q-eng
+    lineage_r8q-user \
+    lineage_r8q-userdebug \
+    lineage_r8q-eng

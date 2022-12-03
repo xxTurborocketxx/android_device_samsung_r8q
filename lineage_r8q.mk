@@ -21,18 +21,18 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit from r8q device
 $(call inherit-product, device/samsung/r8q/device.mk)
 
-# Inherit some common ArrowOs stuff.
-$(call inherit-product, vendor/arrow/config/common.mk)
+# Inherit some common Lineage stuff.
+$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # Boot Animation
 TARGET_BOOT_ANIMATION_RES := 1080
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := aosp_r8q
+PRODUCT_NAME := lineage_r8q
 PRODUCT_DEVICE := r8q
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-G781B
-CUSTOM_DEVICE := SamsungS20FE
+CUSTOM_DEVICE := Samsung S20 FE 5G
 
 PRODUCT_GMS_CLIENTID_BASE := android-samsung	
