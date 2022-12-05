@@ -28,7 +28,8 @@ DEVICE_PACKAGE_OVERLAYS += \
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
-    $(LOCAL_PATH)
+    $(LOCAL_PATH) \
+    hardware/samsung/AdvancedDisplay
 
 # Device uses high-density artwork where available
 PRODUCT_AAPT_CONFIG := normal
