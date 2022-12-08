@@ -188,8 +188,6 @@ vendor/lib/libsegmentationeffect_capture.uniplugin@1.0.so
 vendor/lib64/libsegmentationeffect_capture.uniplugin@1.0.so
 vendor/lib/libssengine.uniplugin@1.0.so
 vendor/lib64/libssengine.uniplugin@1.0.so
-vendor/lib/libSunVerifier_v1.camera.samsung.so
-vendor/lib64/libSunVerifier_v1.camera.samsung.so
 vendor/lib64/K32QS_libTsAeFront.so
 vendor/lib64/K32QS_libTsAfFront.so
 vendor/lib64/K32QS_libTsAwbFront.so
@@ -335,7 +333,6 @@ vendor/lib64/sensors.ssc.so
 vendor/etc/midas/midas_config.json
 vendor/etc/midas/SRIB_aiHDR_Global_V430_1024.caffemodel
 vendor/etc/midas/SRIB_aiHDR_Local_V430_1024.caffemodel
-vendor/etc/midas/SRIBMidas_aiBLURDETECT_Stage1_FP32_V130.caffemodel
 vendor/etc/midas/SRIBMidas_aiBLURDETECT_Stage2_FP32_V130.caffemodel
 vendor/etc/midas/SRIBMidas_aiDEBLUR_FP16_V0132.caffemodel
 vendor/etc/midas/SRIBMidas_aiDENOISE_FP16_V900.caffemodel
@@ -378,7 +375,6 @@ vendor/saiv/image_understanding/db/moon_verifier/moon_verifier_cnn.prototxt
 vendor/saiv/image_understanding/db/slens_classifier/slens_classifier_cnn.dlc
 vendor/saiv/image_understanding/db/slens_detector/slens_detector_cnn.dlc
 vendor/saiv/image_understanding/db/smartscan_rectifier/deep_dewarp_cnn.onnx
-vendor/saiv/image_understanding/db/smartscan_verifier/document_verifier_cnn.tflite
 vendor/saiv/image_understanding/db/srr_interaction/srr_interaction_cnn.tf
 vendor/saiv/mpi_model/009/B2BSFNet.caffemodel
 vendor/saiv/mpi_model/009/B2BSFNet.prototxt
@@ -399,9 +395,6 @@ vendor/saiv/swisp_1.0/db/denoise_model_e568_1x800x720x4_CNR2.pb
 vendor/saiv/swisp_1.0/db/denoise_model_e568_1x816x1056x4_CNR2.pb
 vendor/saiv/swisp_1.0/db/denoise_model_e568_832x1072x4.pb
 vendor/saiv/swisp_1.0/db/SWISPNet-timestamp
-
-#sec_nvm
-vendor/etc/secnvm/k250a_00000200.img
 
 #singletake
 
