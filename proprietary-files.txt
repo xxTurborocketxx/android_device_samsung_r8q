@@ -211,10 +211,10 @@ vendor/lib/libshotsuggestion_engines.so
 vendor/lib64/libshotsuggestion_engines.so
 vendor/lib/libengine_did.so
 vendor/lib64/libengine_did.so
-vendor/lib64/libimgproc_sw.unifunc.so
-vendor/lib/libimgproc_sw.unifunc.so
-vendor/lib64/libHDRVerifier_v1.camera.samsung.so
-vendor/lib/libHDRVerifier_v1.camera.samsung.so
+#vendor/lib64/libimgproc_sw.unifunc.so
+#vendor/lib/libimgproc_sw.unifunc.so
+#vendor/lib64/libHDRVerifier_v1.camera.samsung.so
+#vendor/lib/libHDRVerifier_v1.camera.samsung.so
 # Fingerprint
 vendor/lib/libbauthserver.so
 vendor/lib/libbauthtzcommon.so
