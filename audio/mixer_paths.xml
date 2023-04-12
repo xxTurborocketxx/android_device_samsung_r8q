@@ -2539,7 +2539,7 @@
         <ctl name="Left Digital PCM Volume" value="761" />
     </path>
 
-    <path name="speaker">
+    <path name="mono-speaker">
         <path name="spk" />
         <ctl name="Right AMP PCM Gain" value="18" />
         <ctl name="Right Digital PCM Volume" value="817" />
@@ -2551,7 +2551,7 @@
         <ctl name="Left Digital PCM Volume" value="817" />
     </path>
 
-    <path name="dual-speaker">
+    <path name="speaker">
         <path name="dual-spk" />
         <ctl name="Left AMP PCM Gain" value="18" />
         <ctl name="Right AMP PCM Gain" value="18" />
