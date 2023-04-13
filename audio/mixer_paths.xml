@@ -2742,6 +2742,14 @@
         <ctl name="TX_DEC1 Volume" value="85" />
     </path>
 
+        <path name="handset-stereo-dmic-ef">
+        <path name="sub-main-mic" />
+        <ctl name="TX_DEC0 Volume" value="85" />
+        <ctl name="TX_DEC1 Volume" value="85" />
+    </path>
+
+    
+
     <path name="rec-usb-headset-mic">
     </path>
 
