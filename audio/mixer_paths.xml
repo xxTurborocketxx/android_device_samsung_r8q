@@ -2951,6 +2951,12 @@
         <ctl name="Left Digital PCM Volume" value="761" />
     </path>
 
+        <path name="voice-handset">
+        <path name="rcv" />
+        <ctl name="Left AMP PCM Gain" value="15" />
+        <ctl name="Left Digital PCM Volume" value="761" />
+    </path>
+
     <path name="call-handset-hac">
         <path name="rcv" />
         <ctl name="Left AMP PCM Gain" value="5" />
@@ -2964,6 +2970,14 @@
     </path>
 
     <path name="call-dual-speaker">
+        <path name="dual-spk" />
+        <ctl name="Left AMP PCM Gain" value="18" />
+        <ctl name="Right AMP PCM Gain" value="18" />
+        <ctl name="Left Digital PCM Volume" value="817" />
+        <ctl name="Right Digital PCM Volume" value="817" />
+    </path>
+
+        <path name="voice-speaker-stereo">
         <path name="dual-spk" />
         <ctl name="Left AMP PCM Gain" value="18" />
         <ctl name="Right AMP PCM Gain" value="18" />
